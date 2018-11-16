@@ -10,34 +10,23 @@ With [Quelpa](https://framagit.org/steckerhalter/quelpa)
 (use-package deep-blue-theme
   :quelpa (deep-blue-theme
            :fetcher github
-           :repo "EricCrosson/deep-blue-theme")
-  ;; TODO: write config, if any
-  :config ())
+           :repo "EricCrosson/deep-blue-theme"))
 ```
 
 Or manually, after downloading into your `load-path`
 
 ``` {.sourceCode .lisp}
 (require 'deep-blue-theme)
-;; TODO: write config, if any
 ```
 
-## Use
+## Example
 
-TODO
-
-<!-- ## Example -->
-
-<!-- ![TODO: set hover-text](https://raw.githubusercontent.com/EricCrosson/deep-blue-theme/master/img/demo.{TODO: set filetype png,gif}) -->
-
-## Related
-
-TODO
+![Behold](https://raw.githubusercontent.com/EricCrosson/deep-blue-theme/master/img/demo.png)
 
 ## Acknowledgements
 
-TODO
+Thanks to Tomas Cerha and Syohei Yoshida for initial code.
 
 ## License
 
-GPL 2 (or higher) © [Free Software Foundation, Inc](http://www.fsf.org/about).
+GPL 3 (or higher) © [Free Software Foundation, Inc](http://www.fsf.org/about).
