@@ -23,7 +23,7 @@ Or manually, after downloading into your `load-path`
 
 ![Behold](https://raw.githubusercontent.com/EricCrosson/deep-blue-theme/master/img/demo.png)
 
-## Acknowledgements
+## Acknowledgments
 
 Thanks to Tomas Cerha and Syohei Yoshida for initial code.
 
